@@ -1,0 +1,25 @@
+{
+  "name": "SEIBLOBISH",
+  "description": "Who says Blobish?!",
+  "website": "https://seiblobish.vercel.app/",
+  "twitter": "https://twitter.com/seiblobish",
+  "discord": "https://discord.gg/5gq5ahnWkU",
+  "rpc": "https://sei-rpc.brocha.in",
+  "network": "pacific-1",
+  "collection_address": "sei1r45v49n57mgcec5tvmpy0j3jcvu803a28ua3tgfmsr5dfsjxsmssgwrwn5",
+  "nft_name_type": "default",
+  "groups": [
+    {
+      "name": "whitelist",
+      "allowlist": [
+        "sei1lldrj4tal08nxkvvrryjaq3atlrwr6n0r2attt",
+        "sei19qpdd0prjqchmrarhcvpz0qgkeqct7jnseaq7f",
+        "sei1ux79pzcf6aydakscuz3e8m04a7827f0yxs79nu",
+        "sei1a79dla6fdxje7m9lkuuu4le47y0dh6wlvsxw79"
+      ]
+    },
+    {
+      "name": "public"
+    }
+  ]
+}
